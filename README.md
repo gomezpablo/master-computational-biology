@@ -3,5 +3,4 @@ A repository containing some of the projects I have done as part of the Master i
 
 **Courses included**
 - Genomics Data Analysis and Visualization
-- Big Data Engineering
-- Modelization and Simulation of Biosystems
+
